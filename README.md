@@ -14,6 +14,8 @@ Seven test prompts used to evaluate locally-hosted models (via Ollama/opencode/l
 | P6_heirloom_genealogy_synthesis | Multi-document entity resolution / cross-referencing |
 | P7_data_forensics_project_omega | Claim verification against a real dataset, fabrication detection |
 
+*Bonus cipher challenges are included in the 8-14 range incase you want to tune to cryptography*
+
 ## Grading standard (all prompts)
 
 A model's response is graded as the "core deliverable" being correct and not
