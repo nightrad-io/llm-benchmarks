@@ -1,0 +1,13 @@
+You have been given six documents (document_1.txt through document_6.txt) found in a family archive. They are written in different languages (Dutch, French, German, and English) by different members of the same extended family, across different decades. Some are dated; some are not.
+
+Your task:
+
+1. Reconstruct the family tree implied by these documents - identify the individuals mentioned, their relationships to one another, and (where possible) approximate birth years or generations.
+
+2. For any undated document, determine its approximate date using contextual or historical clues within the text, and explain your reasoning.
+
+3. Reconstruct the full chain of custody of the silver pocket watch engraved "J.J. 1887" - who owned it, in what order, when (or approximately when) it changed hands, and why. State where the watch is most likely located today.
+
+4. Address the second pocket watch mentioned in the documents, engraved "H.L. 1940". Is this the same item as the J.J. 1887 watch under a different description, or a different item entirely? Explain your reasoning, including who owned it and what became of it.
+
+5. Note any details in the documents that initially seem ambiguous or could cause confusion (e.g., repeated names across generations), and explain how you resolved them.

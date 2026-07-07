@@ -1,0 +1,11 @@
+When evaluating the local LLM's response, score it against the following technical criteria:
+
+    Information Extraction (Noise Filtering): The LLM must ignore memo_01 and memo_02, and identify the specific claim in memo_03: "Omega_Resonance is a completely independent variable... strictly uncorrelated with Alpha and Beta."
+
+    Hypothesis Formulation: The LLM should translate the text claim into a null hypothesis (H0​: Correlation between Omega and Alpha/Beta is 0).
+
+    Code Execution: The LLM must write code to calculate either a correlation matrix (Pearson/Spearman) or an Ordinary Least Squares (OLS) multiple regression predicting Omega_Resonance from Alpha_Concentration and Beta_Concentration.
+
+    Mathematical Interpretation (The Signal): The LLM must observe that the OLS regression yields an R2 value approaching 1.0 (specifically ≈0.999), or that the correlation coefficients are extreme.
+
+    Final Deduction: The LLM must definitively state that Dr. Aris's claim is false, and deduce that the data is highly likely to be fabricated or derived via a deterministic mathematical formula rather than independent biological measurement.

@@ -1,0 +1,3 @@
+MEMO 01: FACILITY MAINTENANCE
+    Date: Oct 12
+    The HVAC system in Lab 4 is still fluctuating. Temperature variations of +/- 2 degrees are expected. Ensure all samples are kept in the secondary climate-controlled incubators.

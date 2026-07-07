@@ -1,0 +1,18 @@
+Role & Objective:
+You are a forensic data auditor. You have been provided with a directory llm_benchmark_env containing internal laboratory memos and a dataset (assay_results_q4.csv).
+
+Task:
+
+    Ingest and analyze all provided text documents and the dataset.
+
+    Cross-reference the scientific claims made in the textual memos against the empirical data in the CSV.
+
+    Write and execute Python code to perform rigorous statistical testing to verify the integrity of the core claims made regarding the "Project Omega" yield markers.
+
+    Determine if the data is mathematically sound or if there is evidence of data fabrication/falsification.
+
+Constraints:
+
+    Do not rely on visual inspections of plots. You must rely on statistical metrics (e.g., p-values, correlation coefficients, or R2 values).
+
+    State your final conclusion explicitly: Is the claim true or false, and what exact statistical evidence proves it?
