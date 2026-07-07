@@ -1,6 +1,6 @@
 # Local LLM Benchmark Suite
 
-Seven test prompts used to evaluate locally-hosted models (via Ollama/opencode/litellm) across coding, security review, cryptanalysis, multi-document synthesis, and data-forensics workflows. See `local_llm_benchmark_full_report.md` for full results, scoring methodology, and per-model findings from prior runs.
+Seven test prompts used to evaluate locally-hosted models (via Ollama/opencode/litellm) across coding, security review, cryptanalysis, multi-document synthesis, and data-forensics workflows.
 
 ## Folder index
 
